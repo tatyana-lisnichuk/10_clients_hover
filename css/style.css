@@ -2,7 +2,7 @@
   transition: all.1s ease-in;
 }
 body {
-  background-image: url(/img/background.jpg);
+  background-image: url(../img/background.jpg);
   color: white;
   font-size: 13px;
   font-family: "Source Sans Pro", sans-serif;
